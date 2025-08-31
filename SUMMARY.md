@@ -7,6 +7,12 @@
 * [What is PM](foundations/what-is-pm.md)
 * [PM Mindset](foundations/pm-mindset.md)
 * [Core Skills](foundations/core-skills.md)
+* [Communication & Leadership](foundations/communication/README.md)
+  * [Communication Psychology](foundations/communication/psychology.md)
+  * [Team Dynamics](foundations/communication/team-dynamics.md)
+  * [Working with Teams](foundations/communication/working-with-teams.md)
+  * [Feedback Culture](foundations/communication/feedback-culture.md)
+  * [Decision Making](foundations/communication/decision-making.md)
 * [Career Path](foundations/career-path.md)
 
 ## 🛠 Methods & Frameworks
@@ -36,6 +42,8 @@
 * [User Story Templates](templates/user-story-templates.md)
 * [Meeting Templates](templates/meeting-templates.md)
 * [Presentation Templates](templates/presentation-templates.md)
+* [Feedback Templates](templates/feedback-templates.md)
+* [Decision Templates](templates/decision-templates.md)
 
 ## 🚀 Career Development
 
