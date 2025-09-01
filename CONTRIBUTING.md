@@ -1,231 +1,102 @@
-# Contributing to PM Wiki
+# Wiki-PM 피드백 가이드
 
-## 🤝 Welcome Contributors!
+## 💬 피드백을 환영합니다
 
-PM Wiki에 기여해주셔서 감사합니다. 이 문서는 프로젝트에 기여하는 방법을 안내합니다.
+Wiki-PM은 한국 PM 커뮤니티를 위한 실무 가이드입니다.
+더 나은 콘텐츠를 만들기 위해 여러분의 피드백을 기다리고 있습니다.
 
-## 📋 Prerequisites
+### 피드백 제공 방법
 
-기여하기 전에 다음 사항을 확인해주세요:
+1. **GitHub Issues**: [이슈 등록](https://github.com/philo-kim/wiki-pm/issues)
+2. **이메일**: fineday9@gmail.com
+3. **개선 제안**: 콘텐츠 개선 아이디어나 새로운 주제 제안
 
-- GitHub 계정
-- Git 기본 지식
-- Markdown 작성 능력
-- PM 도메인 지식 (선택사항)
+## 📝 어떤 피드백이 도움이 될까요?
 
-## 🚀 Getting Started
+### 콘텐츠 관련
+- 실무에서 겪은 사례와 인사이트
+- 더 명확한 설명이 필요한 부분
+- 추가되면 좋을 주제나 방법론
+- 한국 맥락에 맞는 적용 방법
 
-### 1. Fork & Clone
+### 기술적 개선
+- 오타나 문법 오류
+- 깨진 링크
+- 구조 개선 제안
+- 가독성 향상 아이디어
 
-```bash
-# Fork this repository
-# Clone your fork
-git clone https://github.com/YOUR_USERNAME/pmwiki-docs.git
-cd pmwiki-docs
+## 📝 피드백 템플릿
 
-# Add upstream remote
-git remote add upstream https://github.com/ORIGINAL_OWNER/pmwiki-docs.git
-```
-
-### 2. Create a Branch
-
-```bash
-# Create a new branch for your feature
-git checkout -b feature/your-feature-name
-
-# For bug fixes
-git checkout -b fix/bug-description
-```
-
-## 📝 Content Guidelines
-
-### Markdown Standards
-
-1. **헤더 사용**
-   - `#` H1: 페이지 제목 (페이지당 1개)
-   - `##` H2: 주요 섹션
-   - `###` H3: 하위 섹션
-   - `####` H4: 세부 항목
-
-2. **포맷팅**
-   - **굵은 글씨**: 중요한 용어나 개념
-   - *이탤릭*: 강조나 인용
-   - `코드`: 기술 용어나 명령어
-   - > 인용: 참고사항이나 인용문
-
-3. **링크**
-   - 내부 링크: `[텍스트](../relative/path.md)`
-   - 외부 링크: `[텍스트](https://example.com)`
-   - 앵커 링크: `[텍스트](#section-id)`
-
-### Content Structure
-
-각 페이지는 다음 구조를 따라야 합니다:
-
+### 콘텐츠 개선 제안
 ```markdown
-# 페이지 제목
+**페이지/섹션:**
+개선이 필요한 페이지나 섹션
 
-## Overview
-페이지 내용 개요 (2-3문장)
+**현재 내용:**
+현재 작성된 내용
 
-## Key Concepts
-핵심 개념 설명
+**제안 내용:**
+개선된 내용 또는 추가할 내용
 
-## Detailed Content
-상세 내용
+**이유:**
+변경이 필요한 이유
 
-## Examples (선택사항)
-실제 예시
-
-## Related Resources
-- 관련 링크
-- 참고 자료
-
-## Next Steps
-다음 학습 내용
+**참고 자료:**
+(있는 경우) 관련 링크나 자료
 ```
 
-### Writing Style
-
-1. **명확하고 간결하게**
-   - 짧은 문장 사용
-   - 전문 용어는 처음 사용시 설명
-   - 불필요한 수식어 제거
-
-2. **일관성 유지**
-   - 용어 일관성
-   - 톤 & 매너 일관성
-   - 포맷 일관성
-
-3. **실용적인 내용**
-   - 이론보다 실무 중심
-   - 구체적인 예시 포함
-   - Action item 제공
-
-## 🔄 Submission Process
-
-### 1. Commit Messages
-
-```
-<type>: <subject>
-
-<body>
-
-<footer>
-```
-
-**Types:**
-- `feat`: 새로운 콘텐츠 추가
-- `fix`: 오류 수정
-- `docs`: 문서 개선
-- `style`: 포맷팅, 오타 수정
-- `refactor`: 구조 개선
-- `chore`: 유지보수
-
-**Example:**
-```
-feat: Add Design Thinking framework page
-
-Added comprehensive guide on Design Thinking methodology
-including 5-stage process and practical examples
-
-Closes #123
-```
-
-### 2. Pull Request
-
-1. **PR 제목**: 명확하고 구체적으로
-2. **설명**: 변경사항 상세 설명
-3. **체크리스트** 완료
-4. **스크린샷**: UI 변경시 첨부
-
-### 3. Review Process
-
-- 모든 PR은 리뷰 필요
-- 피드백 반영
-- CI/CD 체크 통과
-- Maintainer 승인
-
-## 📂 Directory Structure
-
-```
-pmwiki/
-├── SUMMARY.md          # GitBook 목차
-├── README.md           # 프로젝트 소개
-├── foundations/        # 기초 개념
-│   ├── README.md      # 섹션 인덱스
-│   └── *.md           # 개별 페이지
-├── methods/           # 방법론
-├── tools/             # 도구
-├── case-studies/      # 사례
-├── templates/         # 템플릿
-├── career/            # 경력
-└── updates/           # 업데이트
-```
-
-## 🐛 Reporting Issues
-
-### Bug Report
-
+### 새로운 콘텐츠 제안
 ```markdown
-**Description:**
-버그에 대한 명확한 설명
+**제안 주제:**
+추가하고 싶은 주제
 
-**Steps to Reproduce:**
-1. 첫 번째 단계
-2. 두 번째 단계
-3. ...
+**섹션 위치:**
+Discovery / Strategy / Delivery / Leadership 중 해당 섹션
 
-**Expected Behavior:**
-예상된 동작
+**내용 개요:**
+다룰 내용의 간단한 설명
 
-**Actual Behavior:**
-실제 발생한 동작
+**필요성:**
+이 콘텐츠가 필요한 이유
 
-**Screenshots:**
-(있는 경우)
-
-**Environment:**
-- Browser:
-- OS:
-- Device:
+**참고 사례:**
+한국 실무 사례나 경험
 ```
 
-### Feature Request
-
+### 오류 신고
 ```markdown
-**Feature Description:**
-제안하는 기능 설명
+**페이지 위치:**
+오류가 있는 페이지 경로
 
-**Use Case:**
-사용 사례
+**오류 내용:**
+발견한 오류 설명
 
-**Benefits:**
-예상 효과
+**수정 제안:**
+(있는 경우) 올바른 내용
 
-**Additional Context:**
-추가 정보
+**스크린샷:**
+(필요시) 오류 화면 캡처
 ```
 
-## 📜 Code of Conduct
+## 💡 Wiki-PM이 추구하는 방향
 
-1. **존중**: 모든 기여자를 존중
-2. **건설적**: 건설적인 피드백
-3. **포용적**: 다양성 존중
-4. **전문적**: 전문적인 태도 유지
+- **실무 중심**: 이론보다 실제 적용 가능한 내용
+- **한국 맥락**: 한국 기업 문화와 현실에 맞는 가이드
+- **즉시 활용**: 오늘 당장 써먹을 수 있는 템플릿과 프레임워크
+- **지속 개선**: 피드백을 반영하여 계속 발전하는 콘텐츠
 
-## 📞 Contact
+## 📜 피드백 가이드라인
 
-질문이 있으시면 다음 채널로 연락주세요:
+- **건설적 제안**: 문제점과 함께 개선 방안도 제시해주세요
+- **경험 공유**: 실무에서 겪은 경험을 나눠주세요
+- **구체적 설명**: 가능한 구체적으로 설명해주세요
+- **존중과 배려**: 다양한 관점을 인정하고 존중해주세요
 
-- **GitHub Issues**: 기술적 문제
-- **Email**: pmwiki@example.com
-- **Discord**: [PM Wiki Community](https://discord.gg/example)
+## 🙏 감사 인사
 
-## 🙏 Acknowledgments
-
-모든 기여자분들께 감사드립니다! 
+Wiki-PM에 관심을 가져주시고 소중한 피드백을 주시는 모든 분들께 감사드립니다.
+여러분의 의견이 더 나은 PM 가이드를 만드는 데 큰 도움이 됩니다.
 
 ---
 
-*Thank you for contributing to PM Wiki!* 🚀
+*Wiki-PM: 함께 만들어가는 PM 실무 가이드* 🚀
