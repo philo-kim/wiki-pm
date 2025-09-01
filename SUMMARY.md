@@ -1,58 +1,77 @@
 # Table of contents
 
-* [🏠 Home](README.md)
+* [🏠 PM Wiki Home](README.md)
+* [📌 프로젝트 목적](PROJECT_PURPOSE.md)
 
-## 📚 Foundations
+## 0️⃣ Overview - 개인 역량
 
-* [What is PM](foundations/what-is-pm.md)
-* [PM Mindset](foundations/pm-mindset.md)
-* [Core Skills](foundations/core-skills.md)
-* [Communication & Leadership](foundations/communication/README.md)
-  * [Communication Psychology](foundations/communication/psychology.md)
-  * [Team Dynamics](foundations/communication/team-dynamics.md)
-  * [Working with Teams](foundations/communication/working-with-teams.md)
-  * [Feedback Culture](foundations/communication/feedback-culture.md)
-  * [Decision Making](foundations/communication/decision-making.md)
-* [Career Path](foundations/career-path.md)
+* [PM Foundation - PM의 기초](0-overview/pm-foundation/README.md)
+  * [PM이란 무엇인가](0-overview/pm-foundation/what-is-pm.md)
+* [Competency Framework - PM 역량 프레임워크](0-overview/competency-framework/README.md)
+  * [핵심 역량 가이드](0-overview/competency-framework/core-competencies.md)
+* [PM Mindset - PM의 사고방식](0-overview/mindset-thinking/README.md)
+* [Career Path - PM 커리어 패스](0-overview/career-path/README.md)
 
-## 🛠 Methods & Frameworks
+## 1️⃣ Discovery - 발견과 이해
 
-* [Agile & Scrum](methods/agile-scrum.md)
-* [Design Thinking](methods/design-thinking.md)
-* [Lean Startup](methods/lean-startup.md)
-* [OKRs & KPIs](methods/okrs-kpis.md)
+* [Customer Understanding - 고객 이해](1-discovery/customer-understanding/README.md)
+  * [고객 인터뷰 가이드](1-discovery/customer-understanding/interview-guide.md)
+* [User Research - 사용자 리서치](1-discovery/user-research/README.md)
+* [Data Analysis - 데이터 분석](1-discovery/data-analysis/README.md)
+* [Problem Discovery - 문제 발견](1-discovery/problem-discovery/README.md)
+* [Market Research - 시장 조사](1-discovery/market-research/README.md)
+* [Competitive Analysis - 경쟁 분석](1-discovery/competitive-analysis/README.md)
+* [📚 Discovery Frameworks](1-discovery/frameworks/README.md)
+  * [Jobs to Be Done](1-discovery/frameworks/jobs-to-be-done.md)
 
-## 💡 Tools & Techniques
+## 2️⃣ Strategy - 전략과 계획
 
-* [User Research](tools/user-research.md)
-* [Data Analysis](tools/data-analysis.md)
-* [Roadmapping](tools/roadmapping.md)
-* [Prioritization](tools/prioritization.md)
+* [Product Strategy - 제품 전략](2-strategy/product-strategy/README.md)
+* [Business Model - 비즈니스 모델](2-strategy/business-model/README.md)
+* [Roadmap & Prioritization - 로드맵과 우선순위](2-strategy/roadmap-prioritization/README.md)
+* [Goals & Metrics - 목표와 지표](2-strategy/goals-metrics/README.md)
+* [Go-to-Market - 시장 진입 전략](2-strategy/go-to-market/README.md)
+* [📚 Strategy Case Studies](2-strategy/case-studies/README.md)
+* [📚 Strategy Frameworks](2-strategy/frameworks/README.md)
 
-## 📊 Case Studies
+## 3️⃣ Delivery - 실행과 구현
 
-* [B2C Products](case-studies/b2c-products.md)
-* [B2B Products](case-studies/b2b-products.md)
-* [Platform Products](case-studies/platform-products.md)
-* [Failed Products](case-studies/failed-products.md)
+* [Product Design & Specification - 제품 설계와 명세](3-delivery/product-design/README.md)
+  * [PRD 템플릿](3-delivery/product-design/prd-template.md)
+* [Development Process - 개발 프로세스](3-delivery/development-process/README.md)
+* [Launch & Deployment - 출시와 배포](3-delivery/launch-deployment/README.md)
+* [Experimentation - 실험과 테스트](3-delivery/experimentation/README.md)
+* [Product Operations - 제품 운영](3-delivery/product-operations/README.md)
+* [📚 Delivery Frameworks](3-delivery/frameworks/README.md)
+  * [Agile & Scrum](3-delivery/frameworks/agile-scrum.md)
 
-## 📝 Templates & Resources
+## 4️⃣ Leadership - 리더십과 협업
 
-* [PRD Templates](templates/prd-templates.md)
-* [User Story Templates](templates/user-story-templates.md)
-* [Meeting Templates](templates/meeting-templates.md)
-* [Presentation Templates](templates/presentation-templates.md)
-* [Feedback Templates](templates/feedback-templates.md)
-* [Decision Templates](templates/decision-templates.md)
+* [Team Culture - 팀 문화와 리더십](4-leadership/team-culture/README.md)
+* [Communication - 커뮤니케이션](4-leadership/communication/README.md)
+* [Stakeholder Management - 이해관계자 관리](4-leadership/stakeholder-management/README.md)
+* [Decision Making - 의사결정](4-leadership/decision-making/README.md)
+* [Influence & Persuasion - 영향력과 설득](4-leadership/influence-persuasion/README.md)
+* [📚 Leadership Frameworks](4-leadership/frameworks/README.md)
+  * [Radical Candor](4-leadership/frameworks/radical-candor.md)
 
-## 🚀 Career Development
+## 📚 Resources
 
-* [Portfolio Building](career/portfolio-building.md)
-* [Interview Prep](career/interview-prep.md)
-* [Networking](career/networking.md)
-* [Continuous Learning](career/continuous-learning.md)
+* [Templates - 템플릿](resources/templates/README.md)
+* [Tools - 도구](resources/tools/README.md)
+* [Books & Articles - 도서와 아티클](resources/books-articles/README.md)
+* [Glossary - 용어집](resources/glossary/README.md)
 
-## 📢 Updates & Changelog
+## 💡 Special Topics
 
-* [Latest Updates](updates/latest-updates.md)
-* [Changelog](updates/changelog.md)
+* [AI & PM - AI 시대의 PM](special-topics/ai-pm/README.md)
+* [Platform PM - 플랫폼 PM](special-topics/platform-pm/README.md)
+* [B2B PM - B2B 제품 관리](special-topics/b2b-pm/README.md)
+* [Growth PM - 그로스 PM](special-topics/growth-pm/README.md)
+
+---
+
+## 📝 Contribution
+
+* [기여 가이드](CONTRIBUTING.md)
+* [업데이트 로그](CHANGELOG.md)

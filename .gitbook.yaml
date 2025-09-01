@@ -1,0 +1,21 @@
+# GitBook 설정 파일
+# 이 파일은 GitBook의 빌드 및 표시 옵션을 제어합니다
+
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+# GitBook 플러그인 설정 (선택사항)
+# plugins:
+#   - search
+#   - sharing
+#   - fontsettings
+
+# 테마 설정 (선택사항)
+# theme:
+#   default:
+#     showLevel: true
+#     styles:
+#       website: styles/website.css
