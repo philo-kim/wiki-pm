@@ -7,8 +7,10 @@
 
 * [PM Foundation - PM의 기초](0-overview/pm-foundation/README.md)
   * [PM이란 무엇인가](0-overview/pm-foundation/what-is-pm.md)
+  * [PM의 핵심 커뮤니케이션](0-overview/pm-foundation/pm-core-communication.md)
 * [Competency Framework - PM 역량 프레임워크](0-overview/competency-framework/README.md)
   * [핵심 역량 가이드](0-overview/competency-framework/core-competencies.md)
+  * [PM의 3대 핵심 영역](0-overview/competency-framework/three-core-domains.md)
 * [PM Mindset - PM의 사고방식](0-overview/mindset-thinking/README.md)
 * [Career Path - PM 커리어 패스](0-overview/career-path/README.md)
 
@@ -48,9 +50,18 @@
 ## 4️⃣ Leadership - 리더십과 협업
 
 * [Team Culture - 팀 문화와 리더십](4-leadership/team-culture/README.md)
+  * [팀 동기부여와 자기결정이론](4-leadership/team-culture/team-motivation.md)
+  * [미션팀 구축하기](4-leadership/team-culture/mission-team-building.md)
 * [Communication - 커뮤니케이션](4-leadership/communication/README.md)
+  * [갈등 해결과 소통](4-leadership/communication/conflict-resolution.md)
+  * [문서화와 지식관리](4-leadership/communication/documentation.md)
+  * [피드백과 Radical Candor](4-leadership/communication/feedback-culture.md)
+  * [Radical Candor 실전 가이드](4-leadership/communication/radical-candor-practice.md)
 * [Stakeholder Management - 이해관계자 관리](4-leadership/stakeholder-management/README.md)
+  * [디자이너와의 협업](4-leadership/stakeholder-management/designer-collaboration.md)
+  * [개발자와의 협업](4-leadership/stakeholder-management/developer-collaboration.md)
 * [Decision Making - 의사결정](4-leadership/decision-making/README.md)
+  * [우선순위 의사결정](4-leadership/decision-making/priority-decisions.md)
 * [Influence & Persuasion - 영향력과 설득](4-leadership/influence-persuasion/README.md)
 * [📚 Leadership Frameworks](4-leadership/frameworks/README.md)
   * [Radical Candor](4-leadership/frameworks/radical-candor.md)
