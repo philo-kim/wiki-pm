@@ -9,36 +9,34 @@ PM의 업무를 **시간 순서와 논리적 흐름**에 따라 4단계로 구�
 
 ### 1️⃣ Discovery - 발견과 이해
 **"무엇을 알아야 하는가?"** (INPUT)
-- 고객 이해
-- 사용자 리서치
-- 데이터 분석
-- 문제 발견
-- 시장 조사
-- 경쟁 분석
+- **customer-understanding**: 고객 이해, 인터뷰, 관찰, 인지심리학
+- **user-research**: 사용자 리서치, 페르소나, 세그멘테이션, 사용성 테스트
+- **data-analysis**: 데이터 분석, 행동 분석, 코호트 분석, 데이터 사고
+- **market-competition**: 시장 조사, 경쟁 분석, 실패 사례 분석
+- **frameworks**: Discovery 관련 프레임워크 (JTBD, Design Thinking, 근본원인분석)
 
 ### 2️⃣ Strategy - 전략과 계획
 **"무엇을 할 것인가?"** (DECISION)
-- 제품 전략
-- 비즈니스 모델
-- 로드맵과 우선순위
-- 목표와 지표
-- Go-to-Market
+- **product-strategy**: 제품 전략, 미션/비전, 경쟁전략, 가격전략, 제품 라이프사이클
+- **business-model**: 비즈니스 모델, SaaS 지표, 비즈니스 모델 캔버스
+- **prioritization**: 우선순위, 데이터 기반 의사결정, 로드맵, 지표 및 목표
+- **go-to-market**: GTM 전략, 시장 진입, 성장전략, 브랜딩, 마케팅전략
+- **frameworks**: Strategy 관련 프레임워크 (OKR, AARRR, 시스템사고, 전략역량)
 
 ### 3️⃣ Delivery - 실행과 구현
 **"어떻게 만들 것인가?"** (OUTPUT)
-- 제품 설계와 명세
-- 개발 프로세스
-- 출시와 배포
-- 실험과 테스트
-- 제품 운영
+- **product-design**: 제품 설계, PRD, MVP, 디자인 시스템, 인터페이스 설계
+- **development-process**: 개발 프로세스, 애자일, 개발조직관리, 개발 라이프사이클
+- **launch-operations**: 출시 운영, 제품 런칭, 배포 관리
+- **experimentation**: 실험, A/B 테스트, 가설 검증
+- **frameworks**: Delivery 관련 프레임워크 (Agile/Scrum, Design Sprint, 린사고/MVP)
 
 ### 4️⃣ Leadership - 리더십과 협업
 **"어떻게 함께 일할 것인가?"** (ENABLER)
-- 팀 문화와 리더십
-- 커뮤니케이션
-- 이해관계자 관리
-- 의사결정
-- 영향력과 설득
+- **team-culture**: 팀 문화, 리더십, 코칭, 발산적/수렴적 사고, 성장마인드, 팀워크
+- **communication**: 커뮤니케이션, 피드백, 갈등해결, 문서화, Radical Candor, 심리적 안전감
+- **stakeholder-management**: 이해관계자 관리, 디자이너/개발자 협업, 목표/성과 관리
+- **decision-making**: 의사결정, 행동설계, 우선순위 결정, 메타인지, 자기인식, 영향력
 
 ### 0️⃣ Overview - 개인 역량 (별도 트랙)
 **"PM으로서 나는 누구인가?"** (FOUNDATION)
@@ -93,10 +91,10 @@ PM의 업무를 **시간 순서와 논리적 흐름**에 따라 4단계로 구�
 
 각 메인 카테고리는 `frameworks/` 폴더를 가지며, 해당 단계에서 주로 사용하는 프레임워크를 포함:
 
-- **Discovery/frameworks**: JTBD, Design Thinking, 5 Whys
-- **Strategy/frameworks**: OKR, SWOT, Porter's Five Forces
-- **Delivery/frameworks**: Agile, Scrum, Design Sprint
-- **Leadership/frameworks**: Radical Candor, RACI, Team Charter
+- **Discovery/frameworks**: JTBD, Design Thinking, 근본원인분석 (Root Cause Analysis)
+- **Strategy/frameworks**: OKR, AARRR, 시스템사고, 전략역량, 디커플링전략, 정보구조
+- **Delivery/frameworks**: Agile/Scrum, Design Sprint, 린사고/MVP
+- **Leadership**: 각 세부 카테고리에 직접 배치 (frameworks 폴더 없음)
 
 ## 📊 MECE 준수도 체크리스트
 

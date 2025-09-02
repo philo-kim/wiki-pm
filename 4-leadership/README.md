@@ -4,36 +4,53 @@
 
 사람, 프로세스, 문화, 소통의 ENABLER
 
-## 📁 하위 카테고리
+## 📁 하위 카테고리 (4개)
 
-### team-culture/
+### 1. team-culture/
 팀 빌딩, 문화, 심리적 안전
+- 팀워크와 리더십 기초
+- 팀 동기부여와 자기결정이론
+- 미션팀 구축하기
+- 성장 마인드셋과 팀워크
+- 코칭과 리더십
+- 발산적 수렴적 사고
 
-### communication/
+### 2. communication/
 스토리텔링, 설득, 피드백
+- PM의 핵심 커뮤니케이션
+- 갈등 해결과 소통
+- 문서화와 지식관리
+- 피드백과 Radical Candor
+- Radical Candor 실전 가이드
+- 심리적 안전감
+- UX 라이팅
 
-### collaboration/
-디자인/개발/비즈니스 협업
+### 3. stakeholder-management/
+이해관계자 관리, 정치력
+- 디자이너와의 협업
+- 개발자와의 협업
+- 목표와 성과 관리
 - **주 위치**: 협업 방법과 프로세스
 - **참조**: Delivery(실제 협업)
 
-### decision-making/
+### 4. decision-making/
 의사결정 프로세스, 합의 도출
+- 우선순위 의사결정
+- 메타인지와 문제 재구성
+- 자기 인식과 영향력
+- 행동 설계
+- 제품 평가와 방향 설정
 - **주 위치**: 어떻게 결정
 - **참조**: Strategy(무엇을 결정)
 
-### stakeholder-management/
-이해관계자 관리, 정치력
-
-## 📚 frameworks/
-- Radical Candor
-- Psychological Safety
-- RACI Matrix
-- One-on-One Framework
-- Influence without Authority
-
 ## 📖 case-studies/
-리더십과 문화 성공/실패 사례
+Leadership 성공/실패 사례
+
+## 📝 templates/
+Leadership과 협업에서 활용할 수 있는 실무 템플릿
+- 1:1 미팅 템플릿
+- 이해관계자 커뮤니케이션 플랜
+- 의사결정 프레임워크
 
 ## 🔄 중복 해결
 | 항목 | 주 위치 | 구분 |
