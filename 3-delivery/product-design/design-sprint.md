@@ -416,8 +416,8 @@ Too Low ❌ → Just Right ✅ → Too High ❌
 - [ ] 실행 계획 수립?
 
 ## 🔗 관련 문서
-- [디자인 씽킹](./design-thinking.md)
-- [MVP 개발](./mvp-guide.md)
+- [디자인 씽킹](../../1-discovery/user-research/design-thinking.md)
+- [MVP 개발](../experimentation/mvp-guide.md)
 - [사용자 리서치](../../1-discovery/user-research/README.md)
 - [A/B 테스팅](../experimentation/ab-testing-guide.md)
 
